@@ -1,0 +1,32 @@
+{
+  "name": "NextjsLearing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "classnames": "^2.2.6",
+    "next": "^12.2.5",
+    "next-absolute-url": "^1.2.2",
+    "ouibounce": "^0.0.12",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^18.0.0",
+    "react-fast-marquee": "^1.3.5",
+    "react-gtm-module": "^2.0.11",
+    "react-markdown": "^6.0.2",
+    "sass": "^1.35.1",
+    "sharp": "^0.30.7",
+    "swr": "^2.1.5",
+    "uuidv4": "^6.2.13"
+  },
+  "devDependencies": {
+    "eslint": "8.12.0",
+    "eslint-config-next": "12.1.4"
+  }
+}
